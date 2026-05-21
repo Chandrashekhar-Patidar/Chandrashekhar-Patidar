@@ -29,7 +29,8 @@ Tools       -> Git     | GitHub     | VS Code     | Figma         |
 
 | LeetCode | GeeksforGeeks | Codeforces |
 |---------|---------------|------------|
-| ![LeetCode Stats](https://leetcard.jacoblin.cool/Chandu_patidar001?theme=dark&font=Karma) |  <a href="https://www.geeksforgeeks.org/profile/chandrasekha1rqx?tab=activity"><img src="https://img.shields.io/badge/GFG-200%2B%20Problems-0f9d58?style=for-the-badge"></a><br/> | ![HackerEarth](https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png) **Chandrashekhar** — [View Profile](https://www.hackerearth.com/@chandrashekhar190/)
+| ![LeetCode Stats](https://leetcard.jacoblin.cool/Chandu_patidar001?theme=dark&font=Karma) |  <a href="https://www.geeksforgeeks.org/profile/chandrasekha1rqx?tab=activity"><img src="https://img.shields.io/badge/GFG-200%2B%20Problems-0f9d58?style=for-the-badge"></a><br/> | <img src="https://images.icon-icons.com/2389/PNG/512/hackerearth_logo_icon_145208.png" width="28" height="28" alt="HackerEarth"> 
+**HackerEarth** — [View Profile](https://www.hackerearth.com/@chandrashekhar190/)
 
 ## Education
 
