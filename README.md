@@ -29,8 +29,7 @@ Tools       -> Git     | GitHub     | VS Code     | Figma         |
 
 | LeetCode | GeeksforGeeks | Codeforces |
 |---------|---------------|------------|
-| ![LeetCode Stats](https://leetcard.jacoblin.cool/Chandu_patidar001?theme=dark&font=Karma) |  <a href="https://www.geeksforgeeks.org/profile/chandrasekha1rqx?tab=activity"><img src="https://img.shields.io/badge/GFG-200%2B%20Problems-0f9d58?style=for-the-badge"></a><br/> | ![Hacker Earth](https://images.icon-icons.com/2389/PNG/512/hackerearth_logo_icon_145208.png) **[HackerEarth](https://www.hackerearth.com/@chandrashekhar190/)**
-
+| ![LeetCode Stats](https://leetcard.jacoblin.cool/Chandu_patidar001?theme=dark&font=Karma) |  <a href="https://www.geeksforgeeks.org/profile/chandrasekha1rqx?tab=activity"><img src="https://img.shields.io/badge/GFG-200%2B%20Problems-0f9d58?style=for-the-badge"></a><br/> | <img src="https://images.icon-icons.com/2389/PNG/512/hackerearth_logo_icon_145208.png" width="20" height="20"> **[HackerEarth](https://www.hackerearth.com/@chandrashekhar190/)**
 ## Education
 
 - **BTech in Computer Science & Engineering (AI & ML) (2023-2027)**
