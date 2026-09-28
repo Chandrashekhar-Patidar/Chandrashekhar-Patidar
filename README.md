@@ -16,10 +16,11 @@ I prefer understanding *how* things work rather than blindly using tools or fram
 
 ```text
 Languages   -> C++     | Python 
-Frontend    -> HTML    | CSS        | JavaScript 
-Backend     -> Node.js | Express.js | MongoDB
-Tools       -> Git     | GitHub     | VS Code |
-Libraries   -> NUmpy   | PANDAS | Matplotlib | Seaboarn | Scikit-Learn | 
+Frontend    -> HTML    |   CSS   | JavaScript |
+Backend     -> FastAPI | 
+Tools       -> Git     |   GitHub  | VS Code |
+Libraries   -> NUmpy   | PANDAS | Matplotlib | Seaboarn | Scikit-Learn |
+Machine Learning -> Supervised Learning (Regression & Classification)
 ```
 
 ---
@@ -35,7 +36,7 @@ Libraries   -> NUmpy   | PANDAS | Matplotlib | Seaboarn | Scikit-Learn |
 
 - **BTech in Computer Science & Engineering (AI & ML) (2023-2027)**
   - Acropolis Institute of Technology and Research, Indore
-  - Current CGPA: 6.81
+  - Current CGPA: 6.84
 
 - **Higher Secondary School (2022-2023)**
     -  Jawahar Navodaya Vidyalaya Kalukheda (CBSE)
