@@ -29,7 +29,7 @@ Machine Learning -> Supervised Learning (Regression & Classification)
 ---
 ## Achievements & Coding Profiles
 
-| LeetCode | GeeksforGeeks |
+| LeetCode |
 |---------|---------------|------------|
 | ![LeetCode Stats](https://leetcard.jacoblin.cool/Chandu_patidar001?theme=dark&font=Karma) |
 ## Education
