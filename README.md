@@ -20,7 +20,7 @@ Frontend    -> HTML    |   CSS   | JavaScript |
 Backend     -> FastAPI | 
 Tools       -> Git     |   GitHub  | VS Code |
 Libraries   -> NUmpy   | PANDAS | Matplotlib | Seaboarn | Scikit-Learn |
-Machine Learning -> Supervised Learning (Regression & Classification)
+Machine Learning | Deep Learning | RAG | LLM | LangChain | GenAI
 ```
 
 ---
