@@ -17,7 +17,7 @@ I prefer understanding *how* things work rather than blindly using tools or fram
 ```text
 Languages   -> C++     | Python 
 Frontend    -> HTML    |   CSS   | JavaScript |
-Backend     -> FastAPI | 
+Backend     -> FastAPI | Django | MySQL
 Tools       -> Git     |   GitHub  | VS Code |
 Libraries   -> NUmpy   | PANDAS | Matplotlib | Seaboarn | Scikit-Learn |
 Machine Learning | Deep Learning | RAG | LLM | LangChain | GenAI
@@ -50,7 +50,7 @@ Machine Learning | Deep Learning | RAG | LLM | LangChain | GenAI
 ## Connect With Me
 
 - LinkedIn: https://linkedin.com/in/chandrashekhar30/
-- GitHub: https://github.com/Chandrashekhar-Patidar
-- Email:  chandrasekharpatidar30@gmail.com
-
+- GitHub:   https://github.com/Chandrashekhar-Patidar
+- Email:    chandrasekharpatidar30@gmail.com
+- Leetcode: https://leetcode.com/u/Chandu_patidar001/
 ---
