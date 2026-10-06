@@ -36,7 +36,7 @@ Machine Learning | Deep Learning | RAG | LLM | LangChain | GenAI
 
 - **BTech in Computer Science & Engineering (AI & ML) (2023-2027)**
   - Acropolis Institute of Technology and Research, Indore
-  - Current CGPA: 6.84
+  - Current CGPA: 6.86
 
 - **Higher Secondary School (2022-2023)**
     -  Jawahar Navodaya Vidyalaya Kalukheda (CBSE)
