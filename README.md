@@ -29,13 +29,10 @@ Machine Learning | Deep Learning | RAG | LLM | LangChain | GenAI
 ---
 ## Achievements & Coding Profiles
 
-## Achievements & Coding Profiles
-
 ### Chandrashekhar Patidar
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Chandu_patidar001?theme=dark&font=Karma)](https://leetcode.com/u/Chandu_patidar001/)
-
-[![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/chandrashekharpatidar001)](https://www.geeksforgeeks.org/profile/chandrashekharpatidar001?tab=activity)
+<a href="https://leetcode.com/u/Chandu_patidar001/"><img src="https://leetcard.jacoblin.cool/Chandu_patidar001?theme=dark&font=Karma" width="48%" /></a>
+<a href="https://www.geeksforgeeks.org/profile/chandrashekharpatidar001?tab=activity"><img src="https://gfgstatscard.vercel.app/chandrashekharpatidar001" width="48%" /></a>
 
 ## Education
 
