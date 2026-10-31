@@ -19,7 +19,7 @@ Languages   -> C++     | Python
 Frontend    -> HTML    |   CSS   | JavaScript |
 Backend     -> FastAPI | Django | MySQL
 Tools       -> Git     |   GitHub  | VS Code |
-Libraries   -> NUmpy   | PANDAS | Matplotlib | Seaboarn | Scikit-Learn |
+Libraries   -> Numpy   | PANDAS | Matplotlib | Seaboarn | Scikit-Learn |
 Machine Learning | Deep Learning | RAG | LLM | LangChain | GenAI
 ```
 
