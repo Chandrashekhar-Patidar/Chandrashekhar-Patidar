@@ -31,7 +31,7 @@ Machine Learning | Deep Learning | RAG | LLM | LangChain | GenAI
 
 ### Chandrashekhar Patidar
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Chandu_patidar001?theme=dark&font=Karma&width=500)](https://leetcode.com/u/Chandu_patidar001/) [![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/chandrashekharpatidar001)](https://www.geeksforgeeks.org/profile/chandrashekharpatidar001?tab=activity)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Chandu_patidar001?theme=dark&font=Karma&ext=activity)](https://leetcode.com/u/Chandu_patidar001/) [![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/chandrashekharpatidar001)](https://www.geeksforgeeks.org/profile/chandrashekharpatidar001?tab=activity)
 
 ## Education
 
