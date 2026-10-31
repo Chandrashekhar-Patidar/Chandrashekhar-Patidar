@@ -27,7 +27,7 @@ Machine Learning | Deep Learning | RAG | LLM | LangChain | GenAI
 ## Projects
 
 ---
-## Achievements & Coding Profiles
+## 🏆 Achievements & Coding Profiles
 
 ### Chandrashekhar Patidar
 
